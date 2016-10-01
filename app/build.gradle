@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.freetrip.trekker"
+        minSdkVersion 14
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:21.0.3'
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile files('libs/baidumapapi_v3_3_0.jar')
+    compile files('libs/locSDK_5.0.jar')
+    compile files('libs/MobCommons.jar')
+    compile files('libs/MobTools.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/ShareSDK-Core-2.6.5.jar')
+    compile files('libs/ShareSDK-Douban-2.6.5.jar')
+    compile files('libs/ShareSDK-Email-2.6.5.jar')
+    compile files('libs/ShareSDK-Evernote-2.6.5.jar')
+    compile files('libs/ShareSDK-Facebook-2.6.5.jar')
+    compile files('libs/ShareSDK-QQ-2.6.5.jar')
+    compile files('libs/ShareSDK-QZone-2.6.5.jar')
+    compile files('libs/ShareSDK-ShortMessage-2.6.5.jar')
+    compile files('libs/ShareSDK-SinaWeibo-2.6.5.jar')
+    compile files('libs/ShareSDK-Twitter-2.6.5.jar')
+    compile files('libs/ShareSDK-Wechat-2.6.5.jar')
+    compile files('libs/ShareSDK-Wechat-Core-2.6.5.jar')
+    compile files('libs/ShareSDK-Wechat-Favorite-2.6.5.jar')
+    compile files('libs/ShareSDK-Wechat-Moments-2.6.5.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+      <LinearLayout   
+        android:id="@+id/ll_local_sort"
+                android:background="@drawable/list_item_bg"
+            android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:orientation="horizontal"
+         >
+    <TextView
+           android:padding="5dp"
+           android:gravity="center"
+           android:layout_gravity="center_vertical"
+           android:textSize="16sp"
+             android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:text="排序 :"/>
+    <LinearLayout
+         android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_sort_default"
+            style="@style/Local_Sort_Style"
+            android:background="@drawable/local_rectangle_selected"
+            android:text="默认" />
+
+        <TextView
+            android:id="@+id/tv_sort_hot"
+            style="@style/Local_Sort_Style"
+            android:background="@drawable/local_rectangle_normal"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="人气" />
+
+        <TextView
+            android:id="@+id/tv_sort_instance"
+            style="@style/Local_Sort_Style"
+            android:background="@drawable/local_rectangle_normal"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="距离" />
+
+        <TextView
+            android:id="@+id/tv_sort_stars"
+            style="@style/Local_Sort_Style"
+            android:background="@drawable/local_rectangle_normal"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:text="星级" />
+    </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <FrameLayout
+            android:id="@+id/fl_activity_local"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </FrameLayout>
+
+        <ImageButton
+            android:id="@+id/ib_local"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="70dp"
+            android:layout_marginRight="30dp"
+            android:background="@drawable/local_oval"
+            android:src="@drawable/local_arrow"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+</LinearLayout>

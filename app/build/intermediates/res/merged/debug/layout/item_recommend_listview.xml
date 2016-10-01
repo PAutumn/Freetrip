@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="108dp" >
+
+    <ImageView
+        android:id="@+id/iv_recommend"
+        android:layout_width="135dp"
+        android:layout_height="79dp"
+        android:layout_marginLeft="21dp"
+        android:layout_marginTop="19dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/test_pic" />
+
+    <TextView
+        android:id="@+id/tv_recommend_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="22dp"
+        android:layout_marginTop="19dp"
+        android:layout_toRightOf="@id/iv_recommend"
+        android:text="标题啊啊啊啊"
+        android:textColor="#000"
+        android:textSize="19sp" />
+
+    <TextView
+        android:id="@+id/tv_recommend_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_recommend_title"
+        android:layout_marginLeft="22dp"
+        android:layout_marginRight="21dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000"
+		android:lines="2"        
+        android:layout_toRightOf="@id/iv_recommend"
+        android:text="标题啊啊的啦点点滴滴啊啊"
+        android:textSize="14sp" />
+
+</RelativeLayout>

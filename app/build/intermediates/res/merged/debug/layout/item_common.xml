@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="9dip"
+        android:layout_marginRight="9dip"
+        android:background="@drawable/list_item_bg" >
+
+        <ImageView
+            android:id="@+id/item_local_icon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_default" />
+
+        <RelativeLayout
+            android:id="@+id/rl_local_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/item_local_icon"
+            android:layout_marginTop="5dp" >
+
+            <TextView
+                android:id="@+id/item_local_titile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:singleLine="true"
+                android:text="hahah"
+                android:textColor="#333333"
+                android:textSize="16sp" />
+
+            <RatingBar
+                android:id="@+id/item_local_rating"
+                android:layout_width="wrap_content"
+                android:layout_height="14dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:isIndicator="true"
+                android:progressDrawable="@drawable/process_ratingbar"
+                android:rating="2.5" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/rl_local_1" >
+
+            <CheckBox
+                android:id="@+id/tv_local_praise"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/list_item_bg"
+                android:button="@null"
+                android:drawableLeft="@drawable/common_radio_selector"
+                android:drawablePadding="5dp"
+                android:text="1234"
+                android:textColor="#6000"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/item_local_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/tv_local_praise"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:singleLine="true"
+                android:text="hahah"
+                android:textColor="#6000"
+                android:textSize="16sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</FrameLayout>

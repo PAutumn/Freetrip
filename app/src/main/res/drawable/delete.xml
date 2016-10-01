@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- 注意<item pressed 和item narmal的位置要放正确 normal要放最下面，
+否则button点击切换图片效果出不来> -->
+    <item android:drawable="@drawable/main_clean_icon_pressed" 
+        android:state_pressed="true"/>
+    <item android:drawable="@drawable/main_clean_icon_pressed" 
+        android:state_focused="true"/>
+    <item android:drawable="@drawable/main_clean_icon"/>
+
+</selector>

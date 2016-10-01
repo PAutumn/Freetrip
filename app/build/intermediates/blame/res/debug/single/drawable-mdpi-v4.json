@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\free_icon.png",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable-mdpi\\free_icon.png"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

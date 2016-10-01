@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_feedback.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\shape_feedback.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dot.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\selector_dot.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dot_unfocus.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\shape_dot_unfocus.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_point_gray.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\shape_point_gray.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\process_ratingbar.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\process_ratingbar.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_radio_selector.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\common_radio_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\local_rectangle_selected.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\local_rectangle_selected.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\selector_btn.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\local_hot_shape.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\local_hot_shape.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_guide_oval.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\red_guide_oval.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dot_focus.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\shape_dot_focus.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_feedback_edittext.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\selector_feedback_edittext.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_corners_bg.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\local_oval.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\local_oval.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_oval.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\guide_oval.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\delete.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\local_rectangle_normal.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\local_rectangle_normal.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_point_white.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\shape_point_white.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_want_selector.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\iv_want_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iv_visited_selector.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\iv_visited_selector.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guide_button_selector.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\drawable\\guide_button_selector.xml"
+    }
+]

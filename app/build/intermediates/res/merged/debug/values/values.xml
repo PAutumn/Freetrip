@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_white_bg">#fbfbfb</color>
+    <color name="local_titile">#39AEC2</color>
+    <color name="login_with_other_plat_text_color">#ff383838</color>
+    <color name="logo_text_color">#ff7f7f7f</color>
+    <color name="page_back">#fff2f2f2</color>
+    <color name="white">#ffffffff</color>
+    <declare-styleable name="SettingItemView"><attr format="string" name="title"/><attr format="string" name="desc_on"/><attr format="string" name="desc_off"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">21dp</dimen>
+    <dimen name="activity_vertical_margin">21dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="after_auth">一般来说第三方登录时，第三方平台已经为您完成用户身份校验，您可以放心让用户登录。\n\n但如果您需要判断用户是否为新用户，可以在授权操作完成后，将用户的信息通过字段“HashMap userInfo”携带给login方法。客户端通过“String userId”执行登录请求，如果服务端判定此userId为未注册用户，可以将userInfo发送给注册接口，获取用户在此平台上的昵称、头像等数据，然后执行注册</string>
+    <string name="app_name">游点不一样</string>
+    <string name="auth_cancel">授权操作已取消</string>
+    <string name="auth_complete">授权成功，正在跳转登录操作…</string>
+    <string name="auth_error">授权操作遇到错误，请检查网络连接，并重新登录</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="if_register_needed">如果您需要注册功能…</string>
+    <string name="login_with_msg">用手机号码登录</string>
+    <string name="login_with_other_plat">其他帐号登录</string>
+    <string name="login_with_qzone">用QQ空间登录</string>
+    <string name="login_with_sina_weibo">用新浪微博登录</string>
+    <string name="login_with_weixin">用微信登录</string>
+    <string name="logining">使用%s帐号登录中…</string>
+    <string name="share_sdk">Share SDK</string>
+    <string name="signup_failed">注册失败</string>
+    <string name="signup_success">注册成功</string>
+    <string name="ssdk_alipay">支付宝好友</string>
+    <string name="ssdk_alipay_client_inavailable">目前您的支付宝版本过低或未安装，需要安装支付宝才能使用</string>
+    <string name="ssdk_baidutieba">百度贴吧</string>
+    <string name="ssdk_baidutieba_client_inavailable">目前您的百度贴吧版本过低或未安装，需要安装百度贴吧才能使用</string>
+    <string name="ssdk_bluetooth">蓝牙</string>
+    <string name="ssdk_douban">豆瓣</string>
+    <string name="ssdk_dropbox">Dropbox</string>
+    <string name="ssdk_email">邮件</string>
+    <string name="ssdk_evernote">印象笔记</string>
+    <string name="ssdk_facebook">Facebook</string>
+    <string name="ssdk_facebookmessenger">Facebook Messenger</string>
+    <string name="ssdk_flickr">Flickr</string>
+    <string name="ssdk_foursquare">FourSquare</string>
+    <string name="ssdk_google_plus_client_inavailable">Google+ 版本过低或者没有安装，需要升级或安装Google+才能使用！</string>
+    <string name="ssdk_googleplus">Google+</string>
+    <string name="ssdk_instagram">Instagram</string>
+    <string name="ssdk_instagram_client_inavailable">Instagram版本过低或者没有安装，需要升级或安装Instagram才能使用！</string>
+    <string name="ssdk_instapager_email_or_password_incorrect">Email或密码不正确</string>
+    <string formatted="false" name="ssdk_instapager_login_html">
+&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+&lt;meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">
+&lt;meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\">
+&lt;meta content=\"yes\" name=\"apple-mobile-web-app-capable\">
+&lt;title>%s&lt;/title>
+&lt;style type=\"text/css\">
+body{margin:0;padding:0}
+.inputstyle {
+    -webkit-tap-highlight-color:rgba(255,255,255,0);
+    width:100%%;
+    height:44px;
+    color:#000;
+    background:0;
+    border:0;
+    font-size:16px;
+    outline: none;
+    -webkit-appearance:none
+}
+
+.btn {
+    width:90%%;
+    height:44px;
+    line-height:44px;
+    background:#A0C035;
+    border:0;
+    border-radius:4px;
+    color:#fff;
+    font-size:16px;
+    text-align:center;
+    margin-top:15px;
+    display:block
+}
+.btn:disabled {
+    background: #dddddd;
+}
+.error {
+    color:red;
+}
+&lt;/style>
+&lt;/head>
+
+&lt;body>
+&lt;script type=\"text/javascript\">
+function login(form){
+    var u=form[\"u\"].value,p=form[\"p\"].value;
+    if(!u || !p)
+        return false;
+    form[\"s\"].disabled = true;
+    return true;
+}
+&lt;/script>
+&lt;form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\">
+%s
+&lt;div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\">
+ &lt;input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/>
+ &lt;input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/>
+ &lt;input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/>
+&lt;/div>
+&lt;p>&lt;input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\"  %s  \" class=\"btn\"/>&lt;/p>
+&lt;/form>
+&lt;/body>
+&lt;/html>
+</string>
+    <string name="ssdk_instapaper">Instapaper</string>
+    <string name="ssdk_instapaper_email">邮箱</string>
+    <string name="ssdk_instapaper_login">登录</string>
+    <string name="ssdk_instapaper_logining">登录中…</string>
+    <string name="ssdk_instapaper_pwd">密码</string>
+    <string name="ssdk_kaixin">开心网</string>
+    <string name="ssdk_kakaostory">KakaoStory</string>
+    <string name="ssdk_kakaostory_client_inavailable">目前您的KakaoStory版本过低或未安装，需要安装KakaoStory才能使用</string>
+    <string name="ssdk_kakaotalk">KakaoTalk</string>
+    <string name="ssdk_kakaotalk_client_inavailable">目前您的KakaoTalk版本过低或未安装，需要安装KakaoTalk才能使用</string>
+    <string name="ssdk_laiwang">来往</string>
+    <string name="ssdk_laiwang_client_inavailable">目前您的来往版本过低或未安装，需要安装来往才能使用</string>
+    <string name="ssdk_laiwangmoments">来往动态</string>
+    <string name="ssdk_line">Line</string>
+    <string name="ssdk_line_client_inavailable">目前您的Line版本过低或未安装，需要安装Line才能使用</string>
+    <string name="ssdk_linkedin">领英</string>
+    <string name="ssdk_mingdao">明道</string>
+    <string name="ssdk_mingdao_share_content">网页分享</string>
+    <string name="ssdk_neteasemicroblog">网易微博</string>
+    <string name="ssdk_oks_cancel">取消</string>
+    <string name="ssdk_oks_finish">完成</string>
+    <string name="ssdk_oks_list_friends">%s的朋友</string>
+    <string name="ssdk_oks_multi_share">图文分享</string>
+    <string name="ssdk_oks_pull_to_refresh">下拉刷新</string>
+    <string name="ssdk_oks_refreshing">刷新中…</string>
+    <string name="ssdk_oks_release_to_refresh">松开刷新</string>
+    <string name="ssdk_oks_select_a_friend">请选择一个朋友</string>
+    <string name="ssdk_oks_select_one_plat_at_least">请选择一个目标平台</string>
+    <string name="ssdk_oks_shake2share">摇晃手机！</string>
+    <string name="ssdk_oks_share">分享</string>
+    <string name="ssdk_oks_share_canceled">分享已取消</string>
+    <string name="ssdk_oks_share_completed">分享成功</string>
+    <string name="ssdk_oks_share_failed">分享失败</string>
+    <string name="ssdk_oks_share_to">分享到</string>
+    <string name="ssdk_oks_sharing">分享操作正在后台进行…</string>
+    <string name="ssdk_pinterest">Pinterest</string>
+    <string name="ssdk_pinterest_client_inavailable">Pinterest版本过低或者没有安装，需要升级或安装Pinterest才能使用！</string>
+    <string name="ssdk_pocket">Pocket</string>
+    <string name="ssdk_qq">QQ</string>
+    <string name="ssdk_qq_client_inavailable">QQ 版本过低或者没有安装，需要升级或安装QQ才能使用！</string>
+    <string name="ssdk_qzone">QQ空间</string>
+    <string name="ssdk_renren">人人网</string>
+    <string name="ssdk_share_to_baidutieba">分享到百度贴吧</string>
+    <string name="ssdk_share_to_mingdao">分享到明道</string>
+    <string name="ssdk_share_to_qq">分享到QQ</string>
+    <string name="ssdk_share_to_qzone">分享到QQ空间</string>
+    <string name="ssdk_share_to_qzone_default">来自%s的分享</string>
+    <string name="ssdk_shortmessage">信息</string>
+    <string name="ssdk_sinaweibo">新浪微博</string>
+    <string name="ssdk_sohumicroblog">搜狐微博</string>
+    <string name="ssdk_sohusuishenkan">搜狐随身看</string>
+    <string name="ssdk_tencentweibo">腾讯微博</string>
+    <string name="ssdk_tumblr">Tumblr</string>
+    <string name="ssdk_twitter">Twitter</string>
+    <string name="ssdk_use_login_button">请改用“登录”按钮</string>
+    <string name="ssdk_vkontakte">VK</string>
+    <string name="ssdk_website">http://www.mob.com</string>
+    <string name="ssdk_wechat">微信好友</string>
+    <string name="ssdk_wechat_client_inavailable">目前您的微信版本过低或未安装微信，需要安装微信才能使用</string>
+    <string name="ssdk_wechatfavorite">微信收藏</string>
+    <string name="ssdk_wechatmoments">微信朋友圈</string>
+    <string name="ssdk_weibo_oauth_regiseter">应用授权</string>
+    <string name="ssdk_weibo_upload_content">分享图片</string>
+    <string name="ssdk_whatsapp">WhatsApp</string>
+    <string name="ssdk_whatsapp_client_inavailable">目前您的WhatsApp版本过低或未安装，需要安装WhatsApp才能使用</string>
+    <string name="ssdk_yixin">易信</string>
+    <string name="ssdk_yixin_client_inavailable">目前您的易信版本过低或未安装，需要安装易信才能使用</string>
+    <string name="ssdk_yixinmoments">易信朋友圈</string>
+    <string name="ssdk_youdao">有道云笔记</string>
+    <string name="title_activity_amazing_">Amazing_Activity</string>
+    <string name="title_activity_big_pic">BigPicActivity</string>
+    <string name="tpl_boy">男</string>
+    <string name="tpl_camera">拍照</string>
+    <string name="tpl_cancel">取消</string>
+    <string name="tpl_change_user_name_title">更改名字</string>
+    <string name="tpl_change_user_note_title">更改备注</string>
+    <string name="tpl_get_verify_code">获取验证码</string>
+    <string name="tpl_girl">女</string>
+    <string name="tpl_input_user_name_hint">好名字可以让你的朋友更容易记住你</string>
+    <string name="tpl_input_user_note_hint">自定义备注信息，给你带来更多吸引</string>
+    <string name="tpl_key_user_gender">性别</string>
+    <string name="tpl_key_user_icon">头像</string>
+    <string name="tpl_key_user_name">昵称</string>
+    <string name="tpl_key_user_note">备注</string>
+    <string name="tpl_msg_login_hint">请输入手机号码</string>
+    <string name="tpl_no_sdcard">sdcard 卡不存在</string>
+    <string name="tpl_ok">确定</string>
+    <string name="tpl_picture">从相册获取</string>
+    <string name="tpl_send_verify_code">检验验证码</string>
+    <string name="tpl_sign_up">注册</string>
+    <string name="tpl_sign_user_info">用户信息</string>
+    <string name="tpl_value_user_gender">性别</string>
+    <string name="tpl_value_user_name">昵称</string>
+    <string name="tpl_value_user_note">请填写备注信息</string>
+    <string name="tpl_verify_code_hint">请输验证码</string>
+    <string name="userid_found">用户信息已存在，正在跳转登录操作…</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CommonDialog" parent="@android:style/Theme.Dialog">
+       <!--  <item name="android:windowBackground">@drawable/smssdk_dialog_bg</item> -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Local" parent="@android:style/Widget.ActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <style name="Local_Sort_Style">
+         <item name="android:layout_weight">1</item>
+         <item name="android:layout_width">wrap_content</item>
+         <item name="android:layout_height">38dp</item>
+         <item name="android:gravity">center</item>
+         <item name="android:textSize">16sp</item>
+         <item name="android:textColor">#000</item>
+         <item name="android:layout_marginRight">10dp</item>
+         <item name="android:layout_marginLeft">10dp</item>
+     </style>
+    <style name="TitleStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:background">@drawable/topbar_bg</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="WhiteDialog" parent="@android:style/Theme.Dialog">
+       <item name="android:windowBackground">@color/dialog_white_bg</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="my_pb_style" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal</item>
+    </style>
+</resources>

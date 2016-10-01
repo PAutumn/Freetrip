@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\anim\\show_in.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\anim\\show_in.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\anim\\show_out.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\anim\\show_out.xml"
+    }
+]

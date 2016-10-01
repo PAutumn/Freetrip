@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\menu\\big_pic.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\menu\\big_pic.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\menu\\feed_back_success.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\menu\\feed_back_success.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\menu\\local_actionbar.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\menu\\local_actionbar.xml"
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_editpage_at_layout.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_recommend_listview.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\item_recommend_listview.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_photograph.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\item_photograph.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_local_listview.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\item_local_listview.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_page_signup.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\tpl_page_signup.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_setting_item.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\view_setting_item.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_share_platform_list_item.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_gender_select_dialog.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\tpl_gender_select_dialog.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_west.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\list_item_west.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collection.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_collection.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_change_userinfo_dialog.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\tpl_change_userinfo_dialog.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_title_layout.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\tpl_title_layout.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadpage_loading.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\loadpage_loading.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_progress_dialog.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\tpl_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_cache.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\item_list_cache.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_editpage.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_editpage.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_editpage_inc_image_layout.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common_list.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_common_list.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_big_pic.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_big_pic.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back_success.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_feed_back_success.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_icon_select_dialog.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\tpl_icon_select_dialog.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_baidumap.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_login_page.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\tpl_login_page.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_share_actionbar.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photograph.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_photograph.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tpl_msg_login_dialog.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\tpl_msg_login_dialog.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_local.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_local.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_viewpager.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\item_home_viewpager.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_gridview.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\item_home_gridview.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_west.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_detail_west.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_share_platform_list.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_common.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\item_common.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cleancache.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_cleancache.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadpage_error.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\loadpage_error.xml"
+    },
+    {
+        "merged": "D:\\andriod\\androidStudio\\freetrip\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_pop.xml",
+        "source": "D:\\andriod\\androidStudio\\freetrip\\app\\src\\main\\res\\layout\\map_pop.xml"
+    }
+]

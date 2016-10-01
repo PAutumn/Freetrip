@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Local" parent="@android:style/Widget.ActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+</resources>
